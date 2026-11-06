@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
     private Spinner spinnerTicketClass;
     private EditText edtBaggageWeight, edtRatePerKg;
     private TextView txtExcessWeight, txtExcessCharge, txtTotalPayable;
-    private final String GITHUB_URL = "https://github.com/username/excess-baggage-calculator";
+    private final String GITHUB_URL = "https://github.com/amiliafatihah/ExcessBaggageCalculator";
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

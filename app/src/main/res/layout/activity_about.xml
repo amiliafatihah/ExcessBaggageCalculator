@@ -98,8 +98,7 @@
                         android:layout_width="match_parent"
                         android:layout_height="wrap_content"
                         android:minHeight="48dp"
-                        android:text="https://github.com/nuramilia/excess-baggage-calculator"
-                        android:autoLink="web"
+                        android:text="https://github.com/amiliafatihah/ExcessBaggageCalculator"                        android:autoLink="web"
                         android:textColorLink="#1565C0"
                         android:textColor="#1565C0"
                         android:textSize="14sp" />
